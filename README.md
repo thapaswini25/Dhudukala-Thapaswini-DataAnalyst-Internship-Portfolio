@@ -17,3 +17,13 @@ https://github.com/thapaswini25/Deep-dive-analysis-and-interactive-dashboard
 project-4: Data Storytelling and Statistical Validation
 github repository:
 https://github.com/thapaswini25/Data-Storytelling-and-Statistical-Validation
+
+Skills Learned:
+Python
+Pandas
+Power BI
+Statistics
+Data Visualization
+Data StoryTelling
+GitHub
+

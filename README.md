@@ -27,3 +27,7 @@ Data Visualization
 Data StoryTelling
 GitHub
 
+
+Video Link:
+https://drive.google.com/file/d/1xKJzOTBs3QjrwO_lkO5G90ytQ3TP44_K/view?usp=drive_link
+
